@@ -2,7 +2,7 @@
 
 Author: Matthew Wolf, IUPUI, N320 Fall 2022
 
-Web4 Link: https://in-info-web4.informatics.iupui.edu/~wolfmi/N320/inheritinginstruments
+Web4 Link: https://in-info-web4.informatics.iupui.edu/~wolfmi/n320/inheritinginstruments
 
 Assignment Parameters:
 
